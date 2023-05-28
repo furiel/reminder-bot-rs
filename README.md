@@ -1,2 +1,2 @@
-# reminder-bot-rs
-telegram bot to send reminder to yourself
+# reminder-bot
+telegram bot for sending reminders
