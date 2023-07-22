@@ -1,6 +1,6 @@
 pub mod id;
-pub mod notify;
 pub mod reminder;
+pub mod telegram;
 
 fn main() {
     println!("Hello, world!");
